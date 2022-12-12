@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(105, 105, 105);
+    text-align: center;
+}
+h1,h3,label,p{
+    margin-top: 100px;
+    text-align: center;
+    color: black;
+}
+
+.contenedor1{
+    margin-top: 150px;
+}
+
+a{
+    border: none;
+    text-align: center;
+    background-color: yellow;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px 2px;
+    padding: 5px 10px;
+}
+
+a:hover{
+    background-color: green;
+    text-align: center;
+}
+
+.contenedor2{
+    background-color: red;
+    height: 97vh;
+    width: 40%;
+}
+
+.contenedor3{
+    background-color: rgb(49, 49, 211);
+    height: 97vh;
+    width: 40%;
+}
+
+#pantalla-dividida{
+    display: flex;
+    text-align: center;
+}
+.imagen{
+    margin-top: 200px;
+}
